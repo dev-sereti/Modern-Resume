@@ -22,3 +22,8 @@ body {
     list-style: none;
     text-decoration: none;
 }
+.summary p{
+    font-family:"Calibri", sans-serif;
+    font-size: 1em;
+    text-align: justify;
+}
