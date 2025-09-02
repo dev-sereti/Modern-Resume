@@ -2,9 +2,7 @@ body {
   width: 210mm;   /* A4 width */
   height: 297mm;  /* A4 height */
   margin: auto;   /* center horizontally */
-  padding: 20mm;  /* optional padding inside */
   box-sizing: border-box;
-  box-shadow: 0 0 10px rgba(0,0,0,0.3); /* nice paper effect */
 }
 
 .info-header{
