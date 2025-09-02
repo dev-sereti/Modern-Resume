@@ -3,5 +3,15 @@
   display: flex;
   justify-content: center;
   text-align: center;
+  padding: 2px;
  
+}
+.info-header #role{
+    font-size: 1.1em;
+    font-style: italic;
+}
+.info-header #info{
+    font-size:1em;
+    list-style: none;
+    text-decoration: none;
 }
