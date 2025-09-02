@@ -25,15 +25,32 @@ h2{
     text-decoration: none;
 }
 .summary p{
-    font-family:"Calibri", sans-serif;
     font-size: 1em;
     text-align: justify;
 }
 .proff-experience #role{
     font-size: 1em;
     font-style: normal;
+    display: flex;
+    justify-content: space-between;
+    align-items: center; 
 
 }
 .proff-experience #company{
     font-size: 0.9em;
+    font-size: 1em;
+    font-style: normal;
+    display: flex;
+    justify-content: space-between;
+    align-items: center; 
+}
+.proff-experience #role-description{
+    text-align: justify;
+
+}
+#dates{
+    align-items: end;
+}
+#location{
+    align-items: end;
 }
