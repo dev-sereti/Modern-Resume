@@ -57,4 +57,9 @@ h2{
 .proff-experience #role-summary{
     text-align: justify;
 }
+.projects #project-desc{
+    text-align: justify;
+    padding: 10px;
+    line-height: 1.5;
 
+}
