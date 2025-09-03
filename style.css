@@ -1,8 +1,8 @@
 body {
   width: 210mm;
-  height: 297mm;
   margin: auto;   
   box-sizing: border-box;
+  line-height: 1.5;
 }
 h2{
     font-size: 1.1em;
@@ -79,5 +79,9 @@ h2{
     text-align: justify;
     line-height: 1.5;
 }
+.skills #skill{
+    text-align: justify;
+    line-height: 1.5;
 
+}
 
