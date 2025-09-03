@@ -76,6 +76,8 @@ h2{
     
 }
 .cert #cert-desc{
-    
+    text-align: justify;
+    line-height: 1.5;
 }
+
 
