@@ -54,3 +54,7 @@ h2{
 #location{
     align-items: end;
 }
+.proff-experience #role-summary{
+    text-align: justify;
+}
+
