@@ -63,3 +63,12 @@ h2{
     line-height: 1.5;
 
 }
+.projects #git-link{
+    list-style: none;
+
+}
+#git-link a {
+  text-decoration: none;
+  color: green;
+}
+
