@@ -69,6 +69,11 @@ h2{
 }
 #git-link a {
   text-decoration: none;
-  color: green;
+  color: blue;
 }
+#git-link a:hover {
+    color: green;
+    
+}
+
 
